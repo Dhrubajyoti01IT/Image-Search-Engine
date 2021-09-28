@@ -1,0 +1,14 @@
+.flexContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 105px;
+}
+.input{ display: flex;
+    justify-content: center;
+    align-items: center;
+width: 500px;
+height:38px;
+font-size: 30px;
+border-radius: 2px;
+background-color: floralwhite;}

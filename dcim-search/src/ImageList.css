@@ -1,0 +1,9 @@
+.image__list{
+display: grid;
+grid-template-columns: repeat(8,1fr);
+grid-template-rows: repeat(8,1vw);
+grid-gap: 15px;
+
+}
+
+.image__list img {width: 175px;}
